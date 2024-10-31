@@ -1,5 +1,5 @@
 - 👋 sup, I’m @lamzo11
-- interested in 3d animation and game development
+- interested in programming, 3d animation and game development
   
 
 <!---
